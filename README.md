@@ -1,5 +1,4 @@
-## Title 
-A Topological Categorization of Agents for the Definition of Attack States in Multi-agent Systems
+## A Topological Categorization of Agents for the Definition of Attack States in Multi-agent Systems
 
 ## Authors
 Katia Santacà ([@UniVR](http://www.univr.it)), Matteo Cristani ([@UniVR](http://www.univr.it)), Marco Rocchetto ([@SnT@Uni.lu](https://wwwen.uni.lu/snt)), Luca Viganò ([@KCL](https://www.kcl.ac.uk/people/luca-vigano))
