@@ -1,9 +1,9 @@
 ## A Topological Categorization of Agents for the Definition of Attack States in Multi-agent Systems
 
-## Authors
+### Authors
 Katia Santacà ([@UniVR](http://www.univr.it)), Matteo Cristani ([@UniVR](http://www.univr.it)), Marco Rocchetto ([@SnT@Uni.lu](https://wwwen.uni.lu/snt)), Luca Viganò ([@KCL](https://www.kcl.ac.uk/people/luca-vigano))
 
-## Abstract
+### Abstract
 We propose a topological categorization of agents that makes use of the
 multiple-channel logic (MCL) framework, a recently developed model of reasoning
 about agents. We firstly introduce a complete formalization of prejudices on
@@ -16,13 +16,13 @@ types of agents in MAS. Finally, we apply our topological categorization to a
 specific MAS that describes a Cyber-Physical System, for which we define,
 categorize and discuss the resulting attack states.
 
-## Resources
+### Resources
 * [PDF](./CategorizationEUMAS16.pdf)
 * [Slides - Presentation @EUMAS](./Slides_EUMAS_16Dec2016.pdf)
 * [Springer](https://link.springer.com/chapter/10.1007/978-3-319-59294-7_21)
 * [License](./LICENSE.md)
 
-## Cite
+### Cite
 ```
 @inproceedings{Santaca2016ABF,
   author    = {Katia Santac{\`{a}} and
