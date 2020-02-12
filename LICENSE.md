@@ -8,4 +8,4 @@ edition of the Journal, provided that they also link to the contribution on the
 publisher’s website. Please check your License to Publish or Copyright Transfer
 Statement for specific details. Use on any other websites is not permitted.
 
-[https://link.springer.com/chapter/10.1007/978-3-319-59294-7_21] (https://link.springer.com/chapter/10.1007/978-3-319-59294-7_21)
+https://link.springer.com/chapter/10.1007/978-3-319-59294-7_21
