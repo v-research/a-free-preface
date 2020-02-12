@@ -27,7 +27,7 @@ categorize and discuss the resulting attack states.
 * [Google-scholar](https://scholar.google.com/scholar?hl=en&q=A+Topological+Categorization+of+Agents+for+the+Definition+of+Attack+States+in+Multi-agent+Systems&as_sdt=0)
 
 ### Cite
-```bib
+```bibtex
 @inproceedings{Santaca2016ABF,
   author    = {Katia Santac{\`{a}} and
                Matteo Cristani and
