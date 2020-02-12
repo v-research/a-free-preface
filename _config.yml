@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: A free preface to "On Cybersecurity Science and Engineering"
 logo: https://avatars1.githubusercontent.com/u/60679265?s=460&v=4
-show-downloads: true
+show_downloads: true
+google_analytics: UA-158261467-1
