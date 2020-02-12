@@ -18,7 +18,7 @@ categorize and discuss the resulting attack states.
 
 ### Resources
 * [PDF](./CategorizationEUMAS16.pdf)
-* [Slides - Presentation @EUMAS](./Slides_EUMAS_16Dec2016.pdf)
+* [Slides (Presentation @EUMAS)](./Slides_EUMAS_16Dec2016.pdf)
 * [Springer](https://link.springer.com/chapter/10.1007/978-3-319-59294-7_21)
 * [License](./LICENSE.md)
 
