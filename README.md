@@ -1,5 +1,3 @@
-# A Free Preface
-
 ## Title 
 A Topological Categorization of Agents for the Definition of Attack States in Multi-agent Systems
 
