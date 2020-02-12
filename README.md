@@ -18,3 +18,6 @@ generalize our results to define an upper bound on the number of different
 types of agents in MAS. Finally, we apply our topological categorization to a
 specific MAS that describes a Cyber-Physical System, for which we define,
 categorize and discuss the resulting attack states.
+
+## Resources
+* [PDF] ./CategorizationEUMAS16.pdf
