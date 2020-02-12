@@ -1,12 +1,9 @@
-# Header 1
-A Free Preface
+# A Free Preface
 
-# Header 2
-Title 
+## Title 
 A Topological Categorization of Agents for the Definition of Attack States in Multi-agent Systems
 
-# Header 2
-Abstract
+## Abstract
 We propose a topological categorization of agents that makes use of the
 multiple-channel logic (MCL) framework, a recently developed model of reasoning
 about agents. We firstly introduce a complete formalization of prejudices on
