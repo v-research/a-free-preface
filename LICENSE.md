@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Authors of original research papers published by Springer Nature are encouraged
 to submit the author's version of the accepted, peer-reviewed manuscript to
 their relevant funding body's archive, for release twelve months after

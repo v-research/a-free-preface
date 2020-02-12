@@ -23,7 +23,7 @@ categorize and discuss the resulting attack states.
 * [PDF](./CategorizationEUMAS16.pdf)
 * [Slides - Presentation @EUMAS](./Slides_EUMAS_16Dec2016.pdf)
 * [Springer](https://link.springer.com/chapter/10.1007/978-3-319-59294-7_21)
-* [License](./LICENSE)
+* [License](./LICENSE.md)
 * [dblp](https://dblp.uni-trier.de/search?q=A%20Topological%20Categorization%20of%20Agents%20for%20the%20Definition%20of%20Attack%20States%20in%20Multi-agent%20Systems.)
 * [Google-scholar](https://scholar.google.com/scholar?hl=en&q=A+Topological+Categorization+of+Agents+for+the+Definition+of+Attack+States+in+Multi-agent+Systems&as_sdt=0)
 
